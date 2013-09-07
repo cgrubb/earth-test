@@ -9,7 +9,8 @@ To run the server, run the following command:
 cd src/server
 python server.py
 
-Open a web browser and navigate to http://localhost:8888/static/index.html. You should be presented with 4 Google Earth plugin panes.
+Open a web browser and navigate to http://localhost:8888/static/index.html. 
+You should be presented with 4 Google Earth plugin panes.
 
 To run the test client:
 
@@ -17,7 +18,7 @@ cd src/test
 python console.py
 
 To send a lat/lon, enter a string like this:
-> {"lat":40,"lon":-105}
+&gt; {"lat":40,"lon":-105}
 
 If everything worked, the Google Earth panels should all zoom to a spot somewhere in the middle of Colorado.
 

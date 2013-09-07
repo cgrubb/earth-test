@@ -1,12 +1,8 @@
 '''
 Created on Apr 7, 2012
+@author: cgrubb
+'''
 
-@author: cgrubb
-'''
-'''
-Created on Mar 31, 2012
-@author: cgrubb
-'''
 import sys
 import signal
 
